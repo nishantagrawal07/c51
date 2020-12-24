@@ -1,5 +1,5 @@
  h1{
-  color :brown;
+  color :#A12121;
  }
 
  *{
@@ -7,7 +7,7 @@
     }
 
 .header{
-    background-color: aqua;
+    background-color:  #00F1F1;
     display:flex;
     justify-content: space-between;
 }  
@@ -23,5 +23,12 @@
     justify-content: flex-end;
 }
 
+body{
+    background-color: rgb(128,128 ,128);
+}
 
-          
+p , h2{
+    color: #A1F121
+}
+
+      
